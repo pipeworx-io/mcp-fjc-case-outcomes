@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/fjc-case-outcomes",
+  "title": "Fjc Case Outcomes",
+  "description": "Federal Judicial Center (FJC), Integrated Database — federal case outcomes (fleet #3271).…",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/fjc-case-outcomes",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-fjc-case-outcomes",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/fjc-case-outcomes/mcp"
+    }
+  ]
+}
