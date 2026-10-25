@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fjc-case-outcomes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Federal Judicial Center (FJC), Integrated Database — federal case outcomes (fleet #3271). Complements the court-listener pack: court-listener finds and reads individual opinions/dockets; this pack answers aggregate caseload-statistics questions court-listener has no data for — 'how many civil…",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f02a1c94c8af46f26cfeb75aefa54b663595a3be4056e06cadce8703cd12130b",
-    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
+    "sourceHash": "v1-027d712a0cdaeef6b48d0892590b5368043166045fcf01efe621c7376e4f0e92",
+    "sourceCommit": "722087a9bda73f85942e8f6bbfd598544cb0d490"
   }
 }
